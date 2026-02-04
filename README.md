@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm vincentinttsh
 [![GitHub followers](https://img.shields.io/github/followers/vincentinttsh?style=flat-square)](https://github.com/vincentinttsh/)
 
-🌱 I’m currently studying in college
-
 Check my 🖋 [blog](https://www.vincentinttsh.tw/)
 
 <a href="https://github.com/vincentinttsh">
